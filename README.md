@@ -1,6 +1,8 @@
 Extremely basic CSV to vCard converter.
 
-CSV has 4 required headers: First Name, Last Name, Phone, Email
+CSV has 4 required headers: 
+First Name, Last Name, Phone, Email
+
 If any of those are missing an exception will be thrown.
 
 
