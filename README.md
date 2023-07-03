@@ -9,7 +9,7 @@ If any of those are missing an exception will be thrown.
 How to use:
 -----
 
-- Download [the binary](https://github.com/ptrckSTL/csv_to_vcard/blob/master/csv_to_vcard.exe)
+- Download [the binary](https://raw.githubusercontent.com/ptrckSTL/csv_to_vcard/master/csv_to_vcard.exe)
 - Put contacts.csv in the same directory as the binary
 - run the binary
 
