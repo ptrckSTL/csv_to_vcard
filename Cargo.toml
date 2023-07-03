@@ -1,5 +1,5 @@
 [package]
-name = "CsvToVCard"
+name = "csv_to_vcard"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 csv = "1.2.2"
+serde = "1.0.0"
+serde_derive = "1.0.0"
+concat-string = "1.0.1"
